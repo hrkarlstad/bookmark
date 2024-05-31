@@ -1,4 +1,4 @@
-bookmark file maintained
+<p style="text-align: center;">bookmark file</p>
 
 [ google forks ]
 
